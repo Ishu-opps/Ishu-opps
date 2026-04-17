@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a mentor 
 - 😄 Pronouns: ...batman
 - ⚡ Fun fact: ...I am learing everything online
-- 🔖 Degree:... I passed 12th with pcb 🥲
+- 
 
 <!---
 Ishu-opps/Ishu-opps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
